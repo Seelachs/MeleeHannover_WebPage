@@ -12,7 +12,9 @@ Scope:
       - Rankings?
     - Social Media Linkings
       - Twitter 
+        - Ticker?  
       - Discord 
+        - Discord Server Plugin   
 
   - Setup Email address 
 
