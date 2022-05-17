@@ -3,11 +3,18 @@ Website for Melee Hannover club
 
 Scope:
   - Landing Page for Melee Hannover - Inspiration: https://schwerathletiklueneburg.de/
-    - Overview over the tournaments hosted by the club
-      - Bigger tournaments - Link to the start.gg page
-      - Information about the weeklies 
     - Who are we
-    - PRs and rankings?
+      - Information about the club
+      - Join the club => Link to the form   
+    - Overview over the services hosted by the club
+      - Weeklies
+      - Bigger tournaments - Link to the start.gg page (Ticker?)
+      - Rankings?
+    - Social Media Linkings
+      - Twitter 
+      - Discord 
+
+  - Setup Email address 
 
 Proposal:
   - Based on Angular
