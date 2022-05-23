@@ -1,6 +1,10 @@
 # MeleeHannover_WebPage
 Website for Melee Hannover club
 
+simply clone the github repo and run the container via docker from project directory with
+sudo docker compose up -d 
+
+
 Scope:
   - Landing Page for Melee Hannover - Inspiration: https://schwerathletiklueneburg.de/
     - Who are we
